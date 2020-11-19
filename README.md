@@ -1,2 +1,2 @@
-# api
+# RESTful API
 Simple RESTful API
